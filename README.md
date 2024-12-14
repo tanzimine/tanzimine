@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **tkhandak@students.kennesaw.edu**
 
-- ⚡ Unknown fact **By day, I craft cutting-edge software applications 🖥️, and by night, I drop fire beats as a professional Hip-Hop music producer 🎤🔥. Who knows? You might catch me vibing under the moonlight, turning ideas into soundtracks. 🌌🎧**
+- ⚡ **Unknown fact:** By day, I craft cutting-edge software applications 🖥️, and by night, you might see me droping fire beats as a professional Hip-Hop music producer 🔥. Who knows? You might catch me vibing under the moonlight, turning ideas into soundtracks. 🎧**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
