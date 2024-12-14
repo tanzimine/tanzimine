@@ -4,10 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanzimine&label=Profile%20views&color=0e75b6&style=flat" alt="tanzimine" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanzimine" alt="tanzimine" /></a> </p>
-.
+
+- 📄 Download my resume [here](https://t.ly/r7SEZ)  
+
 - 🔭 I’m currently working on [Hack For Humanity 2025 Hackathon](https://github.com/tanzimine/Hack-For-Humanity-2025)
 
-- 🌱 I’m currently learning more about **Next.Js, JWT and DSA**
+- 🌱 I’m currently learning more about **LLM, Next.Js, JWT and DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tanzimine?tab=repositories](https://github.com/tanzimine?tab=repositories)
 
@@ -16,8 +18,6 @@
 - 💬 Ask me about **JavaScript, react, and anything about MERN stack!**
 
 - 📫 How to reach me **tkhandak@students.kennesaw.edu**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1dyt6YmeWYHuUQ14FHIazFkqmFrU9AFPD2zruktaNgRE/edit?usp=sharing](https://docs.google.com/document/d/1dyt6YmeWYHuUQ14FHIazFkqmFrU9AFPD2zruktaNgRE/edit?usp=sharing)
 
 - ⚡ Unknown fact **By day, I craft cutting-edge software applications 🖥️, and by night, I drop fire beats as a professional Hip-Hop music producer 🎤🔥. Who knows? You might catch me vibing under the moonlight, turning ideas into soundtracks. 🌌🎧**
 
