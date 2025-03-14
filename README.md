@@ -15,8 +15,6 @@
 
 - 📝 I regularly write articles on [https://www.dhakatribune.com/bangladesh/education/290749/study-abroad-undergraduate-admission-process-in](https://www.dhakatribune.com/bangladesh/education/290749/study-abroad-undergraduate-admission-process-in)
 
-- 💬 Ask me about **JavaScript, react, and anything about MERN stack!**
-
 - 📫 How to reach me **tkhandak@students.kennesaw.edu**
 
 - ⚡ **Unknown fact:** By day, I craft cutting-edge software applications 🖥️, and by night, you might see me droping fire beats as a professional Hip-Hop Music Producer and a Mixing Engineer 🔥. Who knows? You might catch me vibing under the moonlight, turning ideas into soundtracks. 🎧
