@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanzimine" alt="tanzimine" /></a> </p>
 
-- 📄 Download my resume [here](https://t.ly/r7SEZ)  
+- 📄 Download my resume [here]([https://t.ly/r7SEZ](https://docs.google.com/document/d/1ZgCvft80kvqN01qY8FHDMjh2rEoUzt5CnQJv3LcVSk8/edit?usp=sharing))  
 
 - 🔭 I’m currently working on [Hack For Humanity 2025 Hackathon](https://github.com/tanzimine/Hack-For-Humanity-2025)
 
