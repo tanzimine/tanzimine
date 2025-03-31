@@ -7,7 +7,7 @@
 
 # My Website
 
-[My Website: tanzimsami.com](https://tanzimsami.com)
+- 🌐 My Website (https://tanzimsami.com)
 
 
 - 📄 Download my resume [here](https://docs.google.com/document/d/1ZgCvft80kvqN01qY8FHDMjh2rEoUzt5CnQJv3LcVSk8/edit?usp=sharing)
