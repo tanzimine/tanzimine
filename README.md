@@ -5,7 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanzimine" alt="tanzimine" /></a> </p>
 
-tanzimsami.com
+# My Website
+
+[My Website: tanzimsami.com](https://tanzimsami.com)
+
 
 - 📄 Download my resume [here](https://docs.google.com/document/d/1ZgCvft80kvqN01qY8FHDMjh2rEoUzt5CnQJv3LcVSk8/edit?usp=sharing)
 
