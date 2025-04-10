@@ -9,7 +9,7 @@
 - 🌐 My Website (https://tanzimsami.com)
 
 
-- 📄 Download my resume [here]([https://docs.google.com/document/d/1ZgCvft80kvqN01qY8FHDMjh2rEoUzt5CnQJv3LcVSk8/edit?usp=sharing](https://docs.google.com/document/d/1_-Bmhtfw3Y0cQVrAmrPipc8FoXySx729XWVJa3o_d8c/edit?usp=sharing))
+- 📄 Download my resume [here](https://docs.google.com/document/d/1ZgCvft80kvqN01qY8FHDMjh2rEoUzt5CnQJv3LcVSk8/edit?usp=sharing](https://docs.google.com/document/d/1_-Bmhtfw3Y0cQVrAmrPipc8FoXySx729XWVJa3o_d8c/edit?usp=sharing)
 
 - 🔭 I’m currently working on [Hack For Humanity 2025 Hackathon](https://github.com/tanzimine/Hack-For-Humanity-2025)
 
