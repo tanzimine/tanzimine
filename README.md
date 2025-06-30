@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanzim!</h1>
-<h3 align="center">A passionate AI Automation/full-stack web developer and a tech enthusiast from Atlanta, GA.</h3>
+<h3 align="center">A passionate full-stack web developer and a tech enthusiast from Atlanta, GA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanzimine&label=Profile%20views&color=0e75b6&style=flat" alt="tanzimine" /> </p>
 
